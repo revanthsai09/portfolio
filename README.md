@@ -10,7 +10,7 @@ Built with **pure HTML, CSS, and JavaScript** — no frameworks needed.
 ```
 portfolio3/
 │
-├── index.html          ← All page content (edit your details here)
+├── index.html          ← All page content 
 │
 ├── css/
 │   └── style.css       ← All styling — colors, layout, animations
@@ -19,9 +19,9 @@ portfolio3/
 │   └── main.js         ← All interactions — canvas, tabs, form, etc.
 │
 ├── assets/
-│   ├── profile.jpg     ← ⭐ YOUR PHOTO — replace this file!
-│   └── resume.pdf      ← Your resume — replace this file!
-│
-└── README.md           ← This guide
+    ├── profile.jpg     ←  PHOTO 
+    └── resume.pdf      ←  resume 
+
+
 ```
 
